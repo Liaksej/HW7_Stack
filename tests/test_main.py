@@ -11,7 +11,7 @@ fixture_balanced = [
 fixture_nobalanced = [
     '}{}',
     '{{[(])]}}',
-    '[[{())}]',
+    '[[{())}]'
 ]
 
 
